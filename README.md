@@ -1,2 +1,2 @@
 # Netflix_clone
-movie app
+Using React, Firebase & Material-UI..
