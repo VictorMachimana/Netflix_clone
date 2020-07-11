@@ -1,4 +1,5 @@
-const API_KEY = "bb1e6512cc00f3f0f05a32ca77e3e8f7";
+//create key from TMDb
+// then const API_KEY = "placekey here";
 
 const requests = {
     fetchTrending: `/trending/all/week?api_key=${API_KEY}&language=en-US`,
